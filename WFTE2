@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>css text attributes </title>
+<style type="text/css">
+h2,h3,h4,p{
+           text-shadow:2px 2px 2px blue;
+       color:red;
+}
+</style>
+</head>
+
+
+<h1> Computer languages </h1> 
+
+<h2><p >A language is the main medium of communicating between the Computer systems and the most common are the programming languages. As we know a Computer only
+understands binary numbers that is 0 and 1 to perform various operations but the languages are developed for different types of work on a Computer.A language consists
+of all the instructions to make a request to the system for processing a task. From the first generation and now fourth generation of the Computers there were several 
+programming languages used to communicate with the Computer. Here we will go in the detail of the Computer language and its types.</p></h2>
+
+
+<h1>Tyes of Computer languages </h1>
+
+<h2>
+1. High level language</br></h2> 
+<h3>*COBOL</br> 
+*FORTRAN</br> 
+*BASIC</br> 
+*C, C++</br> 
+*PASCAL</br> 
+*LISP</br> 
+*Ada</br> 
+*Algol</br> 
+*Prolog</br> 
+*Java<br></br> </h3>
+<h1>2. Low level language
+
+</br></h1>
+<h3>*Machine Language</br> 
+*Assembly Language</br> 
+*Hardware</br></h3> 
+
+</font>
+ </body>
+
+
+</html>
