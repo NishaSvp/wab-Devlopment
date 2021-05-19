@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> frame in html</title>
+</head>
+
+<frameset cols="20%,20%,20%,20%,20%">
+ <frame src="WFTE1.html">
+ <frame src="Assignment_WT.html">
+ <frame src="computer.html">
+  <frame src="computer1.html">
+  <frame src="WFTE2.html">
+</frameset>
+</html>
