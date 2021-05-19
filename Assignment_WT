@@ -1,0 +1,26 @@
+<html>
+ <head>
+  <title> css text attributes </title>
+<style type="text/css">
+ #head{
+   font-family: arial;
+    text-shadow:2px 2px 2px blue;
+   color:rgb(155,158,156);  
+   }
+
+
+
+</style>
+</head>
+<body>
+<h1 id="head">Best website design and development</h1>
+<h2 id="head">The magic click to your dream website - that’s what we are Ever desired to have a website that turns around your fortunes?</br></h2> 
+
+<h2>*It's all about finding your most trusted partner who visualizes your dream and makes it a reality.</br> 
+*We, Tech Vedhas bring values to your business process by crafting the most appealing website and offering result-driven solutions, 
+which revolve around user experience and usability.</br> 
+*Our highly qualified and experienced designers and developers, 
+create exceptional websites that help you to stay ahead of your competitors.<h2>
+
+</body>
+</html>
